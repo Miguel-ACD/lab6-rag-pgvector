@@ -1,0 +1,20 @@
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F7F5EF"
+secondaryBackgroundColor = "#E8EEE9"
+textColor = "#17211D"
+linkColor = "#0B625C"
+borderColor = "#C9D4CD"
+showWidgetBorder = true
+baseRadius = "medium"
+buttonRadius = "medium"
+
+[server]
+headless = true
+address = "0.0.0.0"
+port = 8501
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
