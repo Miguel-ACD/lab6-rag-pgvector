@@ -1,5 +1,9 @@
 # Documentación técnica
 
+## Repositorio de la actividad 2
+
+Código, instrucciones y evidencias: https://github.com/Miguel-ACD/lab6-rag-pgvector
+
 ## Objetivo
 
 La aplicación implementa un flujo RAG local para consultar en español tres libros PDF. La solución procesa hasta 300 páginas físicas por documento, recupera pasajes mediante similitud semántica y genera respuestas breves con evidencia verificable.
